@@ -1,0 +1,38 @@
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+    color: blue;
+}
+
+.info {
+    color: cornflowerblue;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table {
+    text-align: center;
+}
+
+.table td , th {
+    border: 1px solid black;
+}
+
+.info .left {
+    float: left;
+    margin-left: 600px;
+}
+
+.yellow {
+    background: yellow;
+}
+
+.orange{
+    background: orange;
+}
